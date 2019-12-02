@@ -1,0 +1,284 @@
+/*top.php*/
+
+.column{
+	margin-left:6px;
+	margin-top:0px;
+	padding:3px;
+}
+.td1{
+	 background-color: #003366;
+	 padding-right:4px;
+}
+.a1{
+	padding-right:17px;
+}
+.span_denglu{
+	font-size: 12px;
+	display:inline;
+	margin-left:2px;
+	margin-right:13px;
+}
+.top_reg{
+	margin-left:950px;
+	margin-top:80px;
+}
+.top_log{
+	margin-bottom:50px;
+	margin-left:20px;
+}
+.logout{
+	margin-right:2px;
+}
+/*bottom.php*/
+
+.bottom1{
+	margin-left:15px;
+	color:#FFFFFF;
+	font-size: 13px;
+}
+.bottom2{
+	color:#CCCCCC;
+	font-size: 14px;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:4px;
+}
+.bottom3{
+	margin-left:15px;
+	margin-top:10px;
+	color:#FFFFFF;
+	font-size: 13px;
+}
+.bottom4{
+	color:#CCCCCC;
+	font-size: 14px;
+	margin-left:15px;
+	margin-top:4px;
+}
+.table_bottom{
+	margin-top:10px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.submit_search{
+	
+	margin-left:10px;
+}
+.search_book{
+	border-radius: 20%;
+	padding-left:50px;
+	font-family: "微软雅黑";
+}
+.search{
+	margin-left:900px;
+	margin-top:20px;
+}
+
+/*index.php*/
+
+.hr_one{
+	margin-left:25px;
+	margin-right:25px;
+}
+.span1{
+	font-size: 24px;
+	margin-left:20px;
+}
+.table_one{
+	margin-top:5px;
+	margin-left:73px;
+}
+.td2{
+	margin-top:3px;
+}
+.table_two{
+	margin-left:73px;
+}
+.img1{
+	margin-left:10px;
+}
+
+.table_hr{
+	float:left;
+	display:block;
+}
+.a1{
+	color:#000000;
+	text-decoration:none;
+}
+.bname{
+	color:#000000;
+	font-size: 23px;
+	font-weight: bold;
+	display:inline;
+	margin-left:15px;
+}
+.anthor{
+	color:#000000;
+	font-size: 23px;
+	font-weight: bold;
+	display:inline;
+	margin-left:13px;
+}
+.form{
+	color:#000000;
+	font-size: 23px;
+	font-weight: bold;
+	display:inline;
+	margin-left:15px;
+}
+
+.div_top{
+	margin-bottom:10px;
+}
+
+.upload{
+	font-family: 思源宋体;
+	font-size: 16px;
+	margin-left:20px;
+	margin-top:4px;
+	
+}
+.type{
+	font-size: 20px;
+	display:inline;
+	margin-left:20px;
+	margin-top:4px;
+}
+.content{
+	font-family: 华文宋体;
+	font-size: 16px;
+	margin-left:20px;
+	margin-top:4px;
+}
+.a_content{
+	margin-left:20px;
+	margin-top:4px;
+}
+
+/*log.php*/
+
+.log{
+	margin-top:200px;
+	margin-bottom:200px;
+}
+.zhanghao{
+	font-family: "微软雅黑";
+	font-size:25px;
+	margin-bottom:25px;
+	
+}
+.mima{
+	font-family: "微软雅黑";
+	font-size:25px;
+	margin-top:6px;
+}
+.denglu{
+	margin-left:30px;
+}
+.zhanghao{
+	display:inline;
+}
+
+.form1{
+	width:30px;
+	height:6px;
+	display:inline;
+	margin-bottom:5px;
+}
+
+.submit{
+	border-radius: 20%;
+	color:#FFFFFF;
+	margin-top:20px;
+	margin-left:10px;
+	margin-bottom:20px;
+}
+.button_log{
+	border-radius: 20%;
+	color:#FFFFFF;
+	margin-left:30px;
+	margin-bottom:15px;
+}
+.botton1{
+	margin-top:10px;
+	margin-right:30px;
+}
+
+/*log.php*/
+
+.zhuce{
+	font-size: 25px;
+	padding-top:20px;
+}
+.zhuce_botton{
+	color: #FFFFFF;
+	border-radius: 20%;
+	margin-top:30px;
+}
+.zhuce_submit{
+	color:#FFFFFF;
+	border-radius: 20%;
+}
+.zhuce_mima{
+	margin-top:10px;
+}
+.zhuce_div2{
+	margin-top:10px;
+}
+
+
+
+/*upload.php*/
+
+.table_upload{
+	margin-top:200px;
+	margin-bottom:200px;
+}
+.div_upload1{
+	padding-top:20px;
+}
+.upload_botton{
+	margin-top:20px;
+	border-radius: 20%;
+}
+.upload_submit{
+	border-radius: 20%;
+}
+.button_upload{
+	margin-left:20px;
+	border-radius: 20%;
+}
+
+
+/*manage.php*/
+
+.table_manage{
+	margin-top:40px;
+	margin-bottom:20px;
+	font-size: 14px;
+	border-color: #CCCCCC;
+	color: #000079;
+}
+.manage_button{
+	width:40px;
+	height:22px;
+	color:#CE0000;
+	border-color: #CE0000;
+}	
+/*.search.php*/
+.table2{
+	padding-top:20px;
+	margin-bottom:100px;
+}
+
+.div_b{
+	width:1100px;
+	height:1000px;
+	border-color: #CCCCCC;
+	
+}
+
+
+
+
